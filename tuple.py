@@ -1,0 +1,6 @@
+a = (1,2,2,2,3)
+print(a.count(2))
+print(a.index(2))
+print(max(a))
+print(min(a))
+print(sum(a))
